@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name 750313739)(type KiCad)(uri ${KIPRJMOD}/750313739)(options "")(descr ""))
+  (lib (name PC-16-260)(type KiCad)(uri ${KIPRJMOD}/PC-16-260)(options "")(descr ""))
+  (lib (name TL3AR005F)(type KiCad)(uri ${KIPRJMOD}/TL3AR005F)(options "")(descr ""))
+  (lib (name USB-A-S-X-X-SM2)(type KiCad)(uri ${KIPRJMOD}/USB-A-S-X-X-SM2)(options "")(descr ""))
+  (lib (name GRM31A7U2J330JW31D)(type KiCad)(uri ${KIPRJMOD}/GRM31A7U2J330JW31D)(options "")(descr ""))
+)

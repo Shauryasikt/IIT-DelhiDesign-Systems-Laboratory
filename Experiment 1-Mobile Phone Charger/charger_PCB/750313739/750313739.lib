@@ -1,0 +1,36 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 750313739
+#
+DEF 750313739 T 0 40 Y N 1 L N
+F0 "T" -400 400 50 H V L BNN
+F1 "750313739" -400 -550 50 H V L BNN
+F2 "EE16/8/5_THT_H_9PIN_EXT_(5280)" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -25 350 -25 -450 N
+P 2 0 0 10 25 350 25 -450 N
+S -150 0 -50 300 0 0 0 F
+S -150 -400 -50 -100 0 0 0 F
+T 900 -400 100 50 0 0 0 Pri Normal 0 L B
+T 900 -400 -300 50 0 0 0 Aux Normal 0 L B
+C -200 250 11 0 0 0 N
+C -200 -150 11 0 0 0 N
+S 50 0 150 300 0 0 0 F
+T 900 450 100 50 0 0 0 Sec Normal 0 L B
+C 200 250 11 0 0 0 N
+X ~ 2 -400 300 300 R 40 40 0 0 P 
+X ~ 5 -400 0 300 R 40 40 0 0 P 
+X ~ 1 -400 -100 300 R 40 40 0 0 P 
+X ~ 4 -400 -400 300 R 40 40 0 0 P 
+X ~ 8 400 300 300 L 40 40 0 0 P 
+X ~ 6 400 0 300 L 40 40 0 0 P 
+X ~ 9 500 300 300 L 40 40 0 0 P 
+X ~ 7 500 0 300 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
