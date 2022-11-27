@@ -1,4 +1,4 @@
-# ELP305: Design and Systems Laboratory
+# ELP305: Design and Systems Laboratory &rarr
 
 ## Experiment #3: Add communication sub-systems, protocols between Mule-bots to enhance functionality
 
